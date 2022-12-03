@@ -38,6 +38,13 @@ Docker-compose файл
 
 ![создание БД test_database](https://user-images.githubusercontent.com/109212419/205458939-904b2843-88c7-4d81-82ed-fa7fac28e2de.jpg)
 
+Восстановление из test_dump.sql
+
+![востановление из дампа](https://user-images.githubusercontent.com/109212419/205460342-bdb6b034-b195-47fa-aa89-b65716a2ebbc.jpg)
+
+Подсключение, проверка и сбор статистики
+
+![подключение проверка и сбор статистики](https://user-images.githubusercontent.com/109212419/205460438-d82b3cb0-00d6-4cc5-a0d0-cd3f20dccb54.jpg)
 
 
 
