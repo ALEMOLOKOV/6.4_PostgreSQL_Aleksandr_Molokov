@@ -15,15 +15,15 @@ Docker-compose файл
 
 ![список БД](https://user-images.githubusercontent.com/109212419/205458362-66d964c7-c260-4e8b-a90a-38e33de21c96.jpg)
 
-подключения к БД
+подключение к БД
 
 ![подключение к БД](https://user-images.githubusercontent.com/109212419/205458443-b4e4c763-1b09-42cd-aaf4-823ac69448a1.jpg)
 
-вывода списка таблиц
+вывод списка таблиц
 
 ![вывод списка таблиц](https://user-images.githubusercontent.com/109212419/205458701-0f33c805-68fc-43e9-a458-28262037b488.jpg)
 
-вывода описания содержимого таблиц
+вывод описания содержимого таблиц
 
 ![описание содержимого таблиц](https://user-images.githubusercontent.com/109212419/205458719-b5c9a842-b681-4eee-8831-40cf9fca91fc.jpg)
 
