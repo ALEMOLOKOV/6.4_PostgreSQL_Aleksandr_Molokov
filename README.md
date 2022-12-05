@@ -58,10 +58,9 @@ SQL транзакция
 
 ЗАДАНИЕ 4
 
-Уникальность значений столбца title для таблиц test_database
+Уникальность значений столбца title для таблиц test_database добавил через ALTER TABLE
 
-![УНикальность столбца title](https://user-images.githubusercontent.com/109212419/205511782-7d187591-546e-46f0-aee2-550ed4584e46.jpg)
-
+![УНикальность столбца title](https://user-images.githubusercontent.com/109212419/205621528-8f217df3-f8e6-44ed-b791-fe83364d8165.jpg)
 
 Бекап БД с помощью pg_dump
 
